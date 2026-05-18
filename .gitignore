@@ -1,5 +1,7 @@
 csv_files/
-assets/
 .vscode/
 *.csv
 
+git add assets/
+git commit -m "Add assets folder"
+git push
